@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`sortYaml sorts YAML content by key 1`] = `
+"updates:
+  - directory: '/'
+    package-ecosystem: 'github-actions'
+    schedule:
+      day: 'tuesday'
+      interval: 'monthly'
+      time: '02:00'
+      timezone: 'Europe/Berlin'
+  - directory: '/'
+    package-ecosystem: 'npm'
+    schedule:
+      day: 'tuesday'
+      interval: 'monthly'
+      time: '02:00'
+      timezone: 'Europe/Berlin'
+version: 2"
+`;

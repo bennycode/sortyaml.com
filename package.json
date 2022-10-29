@@ -39,6 +39,7 @@
       "react-app/jest"
     ]
   },
+  "homepage": ".",
   "name": "sortyaml.com",
   "private": true,
   "scripts": {
